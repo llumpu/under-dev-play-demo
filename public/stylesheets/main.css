@@ -1,0 +1,33 @@
+body{ 
+	margin-top: 0px !important; 
+	padding-top: 0px !important; 
+	
+	font-family: Segoe UI, verdana, geneva, lucida, arial, helvetica, sans-serif; 
+	
+	background: #003674;
+}
+
+
+article{
+    padding-left: 40px;
+	padding-right: 40px;
+	font-size: 120%;
+    color: #FFFFFF;
+	
+}
+
+
+h1{
+    padding-left: 40px;	
+	font-size: 250%;
+    color: #FFFFFF;
+}
+
+
+h2{
+	padding-left: 40px;
+	font-size: 180%;
+    color: #FFFFFF;
+}
+
+
